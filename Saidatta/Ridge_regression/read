@@ -1,0 +1,4 @@
+Trained only Independent features - followed Normal distribution
+Added interaction Params to intro non linearity 
+Result - Bias and Variance
+check residual plots
